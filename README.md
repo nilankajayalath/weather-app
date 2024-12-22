@@ -1,4 +1,4 @@
-# weather-app
+# Responsive weather-app
 
 🚀 Excited to Share My Latest Project: Weather App!
 
